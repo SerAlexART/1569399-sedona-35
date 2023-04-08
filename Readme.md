@@ -2,6 +2,7 @@
 
 * Студент: [Сергей Алексеев](https://up.htmlacademy.ru/htmlcss/35/user/1569399).
 * Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
+* Готовая страница: https://seralexart.github.io/1569399-sedona-35/
 
 ---
 
